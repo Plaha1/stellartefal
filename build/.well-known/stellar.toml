@@ -1,27 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+"GC3KTSODUTPC7BX5SEFQDBPNV6GFENAJ3X67TRGN5YUQ6NWFCWG2LUEO"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Cryptocurrency"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/7pL4y5J/lemon.png"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="ChemiTokens"
+ORG_URL="https://www.chemitokens.org"
+ORG_DESCRIPTION="The chemicoin is the future project that will grow exponentially and you need a single team that works together with one brief, one objective, one goal.Chemicoin will empower the crypto community with the ability to stabilize their portfolios by investing in real commodities."
+ORG_TWITTER="@ChemiTokens"
+ORG_LOGO="https://i.ibb.co/G3YMZjm/chemitokens-logo.png"
+ORG_OFFICIAL_EMAIL="chemitokens@gmail.com"
 
 
 [[CURRENCIES]]
-code="xLEM"
-issuer="GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+code="StellarTefal"
+issuer="GC3KTSODUTPC7BX5SEFQDBPNV6GFENAJ3X67TRGN5YUQ6NWFCWG2LUEO"
 anchor_asset="false"
-name="Lemon Coin"
-desc="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
-image="https://i.ibb.co/7pL4y5J/lemon.png"
+name="StellarTefal"
+desc="StellarTefal is an essential mineral used for batteries in electric cars, computers, and cell phones. Demand for cobalt is increasing as more electric cars are sold, particularly in Europe, where governments are encouraging the sales with generous environmental bonuses."
+image="https://i.ibb.co/YXrggX5/avatars-000098556467-lh687l-t500x500.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#LemonCoin was issued using the open and inclusive Stellar blockchain network.
+#StellarTefal was issued using the open and inclusive Stellar blockchain network.
+
